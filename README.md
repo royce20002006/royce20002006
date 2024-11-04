@@ -1,16 +1,52 @@
+# Hi there! 👋 I'm Royce Calvin
 
+### 🚀 Full Stack Software Engineer | JavaScript | Python | React | Flask
 
-# About Me
+---
 
-👋 Hi, I'm Royce Calvin – an aspiring Full Stack Software Engineer with a passion for creating efficient, scalable, and user-centered applications. My tech stack includes **JavaScript**, **Python**, **React**, **Redux**, **Express**, and **Flask**, with experience in both **frontend** and **backend** development.
+I’m an enthusiastic software engineer with a focus on developing responsive, scalable, and user-friendly applications. Passionate about turning ideas into reality through clean code and efficient solutions.
 
-💡 I enjoy bringing ideas to life, whether through designing smooth, responsive user interfaces or building robust server-side solutions. Some of my recent projects include:
-- **Rainbow BnB**: A seamless booking platform, leveraging Redux for efficient state management and React for a fluid single-page experience.
-- **Twister**: A Twitter clone built with Flask and Python on the backend, styled with raw CSS and deployed consistently across environments using Docker.
-- **ScheduleMe**: A scheduling app with a fully integrated backend using Sequelize and Postgres, styled for user-friendly navigation and optimized data handling.
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-🔧 Beyond coding, I'm driven by a love for problem-solving and continuous learning. I’m always looking to expand my skill set and take on new challenges.
+---
 
-📫 Let’s connect! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/royce-calvin-10633743) or check out my portfolio projects [here](https://github.com/royce20002006).
+### 🏆 Projects
 
-🚀 Let’s build something great together!
+- **[Rainbow BnB](https://rainbow-bnb.onrender.com)**  
+  🛠️ *Tech Stack: JavaScript, React, Redux, CSS, Sequelize, Postgres*  
+  - Developed a seamless booking platform with minimal load times.
+  - Integrated Redux for efficient state management and quick page navigation.
+  - Leveraged SQL for development and Postgres in production for enhanced security.
+
+- **[Twister](https://twistr-pqag.onrender.com)**  
+  🛠️ *Tech Stack: Python, React, Redux, Flask, Docker, CSS*  
+  - Built a Twitter-inspired app using Flask and Python for the backend.
+  - Ensured consistent deployment across environments using Docker.
+  - Created real-time updates for tweets, enhancing user interaction.
+
+- **[ScheduleMe](https://github.com/royce20002006/schedule-me)**  
+  🛠️ *Tech Stack: JavaScript, Express, Sequelize, Postgres, React, Redux, CSS*  
+  - Designed a scheduling app with a React frontend and Redux state management.
+  - Styled with CSS for a clean, user-friendly interface.
+  - Developed API endpoints with Express for reliable data handling.
+
+---
+
+### 💬 Let's Connect!
+
+- **LinkedIn**: [Royce Calvin](https://www.linkedin.com/in/royce-calvin-10633743)
+- **GitHub**: [@royce20002006](https://github.com/royce20002006)
+- **Portfolio**: [Visit My Portfolio](#)
+
+---
+
+🤝 Open to collaboration, learning, and taking on exciting projects. Let's create something amazing together!
