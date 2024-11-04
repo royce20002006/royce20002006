@@ -4,7 +4,7 @@
 
 ---
 
-I’m Royce, a software engineer passionate about building dynamic, responsive, and user-focused web applications. From frontend design to backend development, I love creating solutions that solve real problems.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F761&center=true&vCenter=true&width=435&lines=Passionate+About+Web+Development;Full+Stack+Engineer;Quick+Learner+and+Problem+Solver)
 
 ---
 
@@ -34,6 +34,8 @@ I’m Royce, a software engineer passionate about building dynamic, responsive, 
 - 🔒 Used SQL in development and Postgres in production for data security.
 - 🌐 Hosted on Render, ensuring consistent uptime.
 
+![Rainbow BnB Demo](https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+
 ---
 
 #### 🐦 [Twister](https://twistr-pqag.onrender.com)
@@ -44,6 +46,32 @@ I’m Royce, a software engineer passionate about building dynamic, responsive, 
 - 🐳 Leveraged Docker for consistent deployment across environments.
 - 🎨 Styled with raw CSS to create a visually engaging layout.
 
+![Twister Demo](https://media.giphy.com/media/xT5LMqkzNxTOGcvf1i/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+
 ---
 
-#### 🗓️ [ScheduleMe](h
+#### 🗓️ [ScheduleMe](https://github.com/royce20002006/schedule-me)
+> **Tech Stack**: JavaScript, Express, Sequelize, Postgres, React, Redux, CSS  
+> 🌟 **Description**: A full-featured scheduling app.
+- 🌍 Created a user-friendly UI with React, ensuring intuitive navigation.
+- 🚀 Optimized state management with Redux for fast data retrieval.
+- 🔒 Integrated Sequelize and Postgres for reliable backend data handling.
+- 💼 Developed API endpoints with Express to support seamless data flow.
+
+![ScheduleMe Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+
+---
+
+### 🤝 Let's Connect!
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royce-calvin-10633743)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/royce20002006)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](#)
+
+---
+
+🌱 **Currently Learning**: Advanced data structures, cloud deployment strategies  
+💬 **Ask me about**: Frontend development, API design, Docker deployment  
+📫 **Reach out**: royce20002006@gmail.com
+
+Let’s collaborate and build something great together! 🚀
