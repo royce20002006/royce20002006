@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Royce Calvin
 
-🚀 **Full Stack Software Engineer** | **JavaScript** | **Python** | **React** | **Flask**
+🚀 **Full Stack Software Engineer** | **JavaScript** | **Python** | **React** | **Flask** | **HTML** | **CSS** | **SQL** | **PostgreSQL** | **Docker** | **Redux** | **Express** 
 
 ---
 
@@ -19,6 +19,9 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23000?style=for-the-badge&logo=sql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%23000000.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ---
 
@@ -70,7 +73,7 @@
 
 ---
 
-🌱 **Currently Learning**: Advanced data structures, cloud deployment strategies, AWS  
+🌱 **Currently Learning**: Advanced data structures, cloud deployment strategies  
 💬 **Ask me about**: Frontend development, API design, Docker deployment  
 📫 **Reach out**: royce20002006@gmail.com
 
