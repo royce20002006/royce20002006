@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Royce Calvin
 
-🚀 **Aspiring Full Stack Software Engineer** | **JavaScript** | **Python** | **React** | **Flask**
+🚀 **Full Stack Software Engineer** | **JavaScript** | **Python** | **React** | **Flask**
 
 ---
 
@@ -28,37 +28,37 @@
 
 #### 🌈 [Rainbow BnB](https://rainbow-bnb.onrender.com)
 > **Tech Stack**: JavaScript, React, Redux, CSS, Sequelize, Postgres  
-> 🌟 **Description**: A seamless booking platform with fast load times and fluid navigation.
-- 🖥️ Created a single-page application (SPA) with React for optimal performance.
-- 📊 Leveraged Redux for state management, providing a smooth user experience.
-- 🔒 Used SQL in development and Postgres in production for data security.
-- 🌐 Hosted on Render, ensuring consistent uptime.
+> 🌟 **Description**: A seamless booking platform that mimics Airbnb, offering fast load times and smooth navigation.
+- 🖥️ Built a responsive single-page application (SPA) using React for speed and ease of use.
+- 📊 Managed global state with Redux, ensuring a fluid experience for users interacting with multiple listings.
+- 🔒 Utilized SQL for data handling and Postgres for database management to ensure secure data storage.
+- 🌐 Hosted on Render for consistent availability and reliability.
 
-![Rainbow BnB Demo](https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+![Rainbow BnB Demo](https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif)
 
 ---
 
 #### 🐦 [Twister](https://twistr-pqag.onrender.com)
 > **Tech Stack**: Python, Flask, React, Redux, Docker, CSS  
-> 🌟 **Description**: A Twitter-inspired app with real-time tweet updates.
-- 💻 Built backend routes using Flask and managed tweet data storage.
-- 🖥️ Designed a responsive SPA with React and Redux for instant updates.
-- 🐳 Leveraged Docker for consistent deployment across environments.
-- 🎨 Styled with raw CSS to create a visually engaging layout.
+> 🌟 **Description**: A Tumblr-inspired platform where users can post, comment, and interact with others.
+- 💻 Developed backend routes in Flask to support user interactions like posts and comments.
+- 🖥️ Designed a dynamic front-end using React and Redux to deliver real-time content updates.
+- 🐳 Used Docker to ensure consistency across different deployment environments.
+- 🎨 Applied raw CSS for custom, clean styling to enhance user experience.
 
-![Twister Demo](https://media.giphy.com/media/xT5LMqkzNxTOGcvf1i/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+![Twister Demo](https://media.giphy.com/media/xT5LMqkzNxTOGcvf1i/giphy.gif)
 
 ---
 
 #### 🗓️ [ScheduleMe](https://github.com/royce20002006/schedule-me)
 > **Tech Stack**: JavaScript, Express, Sequelize, Postgres, React, Redux, CSS  
-> 🌟 **Description**: A full-featured scheduling app.
-- 🌍 Created a user-friendly UI with React, ensuring intuitive navigation.
-- 🚀 Optimized state management with Redux for fast data retrieval.
-- 🔒 Integrated Sequelize and Postgres for reliable backend data handling.
-- 💼 Developed API endpoints with Express to support seamless data flow.
+> 🌟 **Description**: A comprehensive scheduling tool built to streamline shift management for employees and supervisors.
+- 🌍 Crafted an intuitive, user-friendly interface with React for easy navigation.
+- 🚀 Optimized state management with Redux to ensure fast data access and smooth interaction.
+- 🔒 Implemented Sequelize and Postgres for efficient, secure database management.
+- 💼 Developed RESTful API endpoints with Express to facilitate data retrieval and manipulation.
 
-![ScheduleMe Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif) <!-- Replace with a relevant GIF demo or screenshot -->
+![ScheduleMe Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-🌱 **Currently Learning**: Advanced data structures, cloud deployment strategies  
+🌱 **Currently Learning**: Advanced data structures, cloud deployment strategies, AWS  
 💬 **Ask me about**: Frontend development, API design, Docker deployment  
 📫 **Reach out**: royce20002006@gmail.com
 
